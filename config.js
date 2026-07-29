@@ -95,8 +95,9 @@ window.APP_CONFIG = {
   },
 
   forms: {
-    endpoint: "https://formspree.io/f/xykrkdky"
+    endpoint: "https://formspree.io/f/xlgqvwgj"
   },
+  
 
   orb: {
     on: true,
