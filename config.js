@@ -40,7 +40,7 @@ window.APP_CONFIG = {
 
   content: {
     hero: {
-      banner: "",
+      banner: "gemini-banner.jpg",
       headline: "Your Business Deserves Its Own App",
       subtext: "New Era Apps builds custom mobile apps for local businesses — booking, your own AI receptionist, and a home-screen app your customers actually use. Live in minutes, not months.",
       buttons: [
